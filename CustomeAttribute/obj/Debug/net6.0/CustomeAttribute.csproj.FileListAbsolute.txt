@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\practice\AttributePractice\CustomeAttribute\bin\Debug\net6.0\CustomeAttribute.deps.json
+C:\Users\user\Desktop\practice\AttributePractice\CustomeAttribute\bin\Debug\net6.0\CustomeAttribute.dll
+C:\Users\user\Desktop\practice\AttributePractice\CustomeAttribute\bin\Debug\net6.0\CustomeAttribute.pdb
+C:\Users\user\Desktop\practice\AttributePractice\CustomeAttribute\obj\Debug\net6.0\CustomeAttribute.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\practice\AttributePractice\CustomeAttribute\obj\Debug\net6.0\CustomeAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\practice\AttributePractice\CustomeAttribute\obj\Debug\net6.0\CustomeAttribute.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\practice\AttributePractice\CustomeAttribute\obj\Debug\net6.0\CustomeAttribute.AssemblyInfo.cs
+C:\Users\user\Desktop\practice\AttributePractice\CustomeAttribute\obj\Debug\net6.0\CustomeAttribute.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\practice\AttributePractice\CustomeAttribute\obj\Debug\net6.0\CustomeAttribute.dll
+C:\Users\user\Desktop\practice\AttributePractice\CustomeAttribute\obj\Debug\net6.0\refint\CustomeAttribute.dll
+C:\Users\user\Desktop\practice\AttributePractice\CustomeAttribute\obj\Debug\net6.0\CustomeAttribute.pdb
+C:\Users\user\Desktop\practice\AttributePractice\CustomeAttribute\obj\Debug\net6.0\ref\CustomeAttribute.dll

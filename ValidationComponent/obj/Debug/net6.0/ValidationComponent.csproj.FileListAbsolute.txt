@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\practice\AttributePractice\ValidationComponent\bin\Debug\net6.0\ValidationComponent.deps.json
+C:\Users\user\Desktop\practice\AttributePractice\ValidationComponent\bin\Debug\net6.0\ValidationComponent.dll
+C:\Users\user\Desktop\practice\AttributePractice\ValidationComponent\bin\Debug\net6.0\ValidationComponent.pdb
+C:\Users\user\Desktop\practice\AttributePractice\ValidationComponent\bin\Debug\net6.0\CustomeAttribute.dll
+C:\Users\user\Desktop\practice\AttributePractice\ValidationComponent\bin\Debug\net6.0\CustomeAttribute.pdb
+C:\Users\user\Desktop\practice\AttributePractice\ValidationComponent\obj\Debug\net6.0\ValidationComponent.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\practice\AttributePractice\ValidationComponent\obj\Debug\net6.0\ValidationComponent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\practice\AttributePractice\ValidationComponent\obj\Debug\net6.0\ValidationComponent.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\practice\AttributePractice\ValidationComponent\obj\Debug\net6.0\ValidationComponent.AssemblyInfo.cs
+C:\Users\user\Desktop\practice\AttributePractice\ValidationComponent\obj\Debug\net6.0\ValidationComponent.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\practice\AttributePractice\ValidationComponent\obj\Debug\net6.0\ValidationComponent.csproj.CopyComplete
+C:\Users\user\Desktop\practice\AttributePractice\ValidationComponent\obj\Debug\net6.0\ValidationComponent.dll
+C:\Users\user\Desktop\practice\AttributePractice\ValidationComponent\obj\Debug\net6.0\refint\ValidationComponent.dll
+C:\Users\user\Desktop\practice\AttributePractice\ValidationComponent\obj\Debug\net6.0\ValidationComponent.pdb
+C:\Users\user\Desktop\practice\AttributePractice\ValidationComponent\obj\Debug\net6.0\ref\ValidationComponent.dll

@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\practice\AttributePractice\LoggingComponent\bin\Debug\net6.0\LoggingComponent.deps.json
+C:\Users\user\Desktop\practice\AttributePractice\LoggingComponent\bin\Debug\net6.0\LoggingComponent.dll
+C:\Users\user\Desktop\practice\AttributePractice\LoggingComponent\bin\Debug\net6.0\LoggingComponent.pdb
+C:\Users\user\Desktop\practice\AttributePractice\LoggingComponent\obj\Debug\net6.0\LoggingComponent.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\practice\AttributePractice\LoggingComponent\obj\Debug\net6.0\LoggingComponent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\practice\AttributePractice\LoggingComponent\obj\Debug\net6.0\LoggingComponent.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\practice\AttributePractice\LoggingComponent\obj\Debug\net6.0\LoggingComponent.AssemblyInfo.cs
+C:\Users\user\Desktop\practice\AttributePractice\LoggingComponent\obj\Debug\net6.0\LoggingComponent.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\practice\AttributePractice\LoggingComponent\obj\Debug\net6.0\LoggingComponent.dll
+C:\Users\user\Desktop\practice\AttributePractice\LoggingComponent\obj\Debug\net6.0\refint\LoggingComponent.dll
+C:\Users\user\Desktop\practice\AttributePractice\LoggingComponent\obj\Debug\net6.0\LoggingComponent.pdb
+C:\Users\user\Desktop\practice\AttributePractice\LoggingComponent\obj\Debug\net6.0\ref\LoggingComponent.dll
